@@ -9,7 +9,7 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-pink-200">
-           I am an AI & ML enthusiast
+           AI & ML enthusiast
           </h2>
           <p className="text-white py-8 h-40 px-0 mx-1 max-w-md">
           I'm a pre-final year student in VIT, 
